@@ -1,11 +1,15 @@
-Hi 👋 My name is Yu-Heng Daniel Lin
-===================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yu-Heng Daniel Lin
+==========================================================================================================================================
 
 Aspiring Software Engineer
 --------------------------
 
+Hi my legal name is Yu-Heng Lin, I go by Daniel but you can call Yu-Heng or Lin, all of them are fine. I'm in my second year of college studying computer science. I love Math, Physics, and problem solving. And I'm a fan of the singer Anne Murray.
+
 * 🌍  I'm based in California
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
+* 🧠  I'm learning data structures and algorithms problem solving through leetcode
+* ⚡  I'm more of a backend guy, I plan to study more about databases when I enter my third year
 
 ### Skills
 
@@ -16,8 +20,9 @@ Aspiring Software Engineer
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
 
@@ -28,7 +33,3 @@ Aspiring Software Engineer
 ### Badges
 
 <a href="https://github.com/Serenity0204" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serenity0204&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Serenity0204/Golang-React-MongoDB-TodoList" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Serenity0204&repo=Golang-React-MongoDB-TodoList&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Serenity0204/react-golang-chat-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Serenity0204&repo=react-golang-chat-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
