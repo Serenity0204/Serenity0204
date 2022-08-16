@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Software Engineer
 --------------------------
 
-Hi my legal name is Yu-Heng Lin, I go by Daniel but you can call Yu-Heng or Lin, all of them are fine. I'm in my second year of college studying computer science. I love Math, Physics, and problem solving. And I'm a fan of the singer Anne Murray.
+Hi I'm Lin, I'm in my second year of college studying computer science. I love Math, Physics, and problem solving.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
 * 🧠  I'm learning data structures and algorithms problem solving through leetcode
-* ⚡  I'm more of a backend guy, I plan to study more about databases when I enter my third year
+* ⚡  I like backend more, I plan to study more about databases when I enter my third year
 
 ### Skills
 
