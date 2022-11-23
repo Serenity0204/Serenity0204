@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Software Engineer
 --------------------------
 
-Hi I'm Lin, I'm in my second year of college studying computer science. I love Math, Physics, and problem solving.
+Hi I'm Lin, I'm in my second year of college studying computer engineering. I love Math, Physics, and problem solving.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
-* 🧠  I'm learning data structures and algorithms problem solving through leetcode
-* ⚡  I like backend more, I plan to study more about databases when I enter my third year
+* 🧠  I'm currently working on several C++ SFML projects to sharpen my skills
+* ⚡  I like backend more, and I like to use Django to build web projects. I planned to build my own non-profit e-learning platform in my third year.
 
 ### Skills
 
