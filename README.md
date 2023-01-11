@@ -8,9 +8,9 @@ Hi, I'm Lin, I'm in my second year of college studying computer engineering. I l
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
-* 🧠  I'm learning I'm currently working on several C++ SFML projects to sharpen my skills
+* 🧠  I'm learning I'm currently working on several C++ SFML/Django web projects 
 * 🤝  I'm open to collaborating on building web/C++ SFML projects
-* ⚡  I like backend more, and I like to use Django to build web projects. I planned to build my own non-profit e-learning platform in my third year.
+* ⚡  I like to use Django to build web projects. I planned to build my own non-profit e-learning platform in my third year.
 
 ### Skills
 
