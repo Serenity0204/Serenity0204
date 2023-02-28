@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Software/Firmware/Electrical Engineer
 -----------------------------------
 
-Hi, I'm Lin, I'm in my second year of college studying computer engineering. I love Math, Physics, Engineering, and problem-solving.
+Hi, I'm Lin, I'm in my second year of college studying computer engineering. I love Math, Engineering, and problem-solving.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
-* 🧠  I'm learning I'm currently working on several C++ SFML/Django web projects, and studying circuit analysis
-* 🤝  I'm open to collaborating on building web/C++ SFML projects, I'm also into topics related to math/engineering
-* ⚡  I like to use Django to build web projects. I planned to build my own non-profit e-learning platform in my third year.
+* 🧠  I'm currently working on several C++ projects.
+* 🤝  I'm open to collaborating on building C++ projects, I'm also into topics related to math/engineering
+* ⚡  I'm new into the field of storage/database
 
 ### Skills
 
