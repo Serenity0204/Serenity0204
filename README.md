@@ -8,9 +8,9 @@ Hi, I'm Lin, I'm in my second year of college studying computer engineering. I l
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
-* 🧠  I'm currently learning Golang.
-* 🤝  I'm open to collaborating on building C++/Golang projects, I'm also into topics related to math/engineering
-* ⚡  I'm new into the field of storage/database
+* 🧠  I'm currently learning Golang/Django.
+* 🤝  I'm open to collaborating on building C++/Golang/Django projects, I'm also into topics related to math/engineering
+* ⚡  I'm trying to webdev
 
 ### Skills
 
