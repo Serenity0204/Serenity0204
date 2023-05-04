@@ -10,7 +10,7 @@ Hi, I'm Lin, I'm in my second year of college studying computer engineering. I l
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
 * 🧠  I'm currently learning Golang/Django.
 * 🤝  I'm open to collaborating on building C++/Golang/Django projects, I'm also into topics related to math/engineering
-* ⚡  I'm trying to webdev
+* ⚡  I'm trying to do webdev
 
 ### Skills
 
