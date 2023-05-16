@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Software/Firmware/Electrical Engineer
 -----------------------------------
 
-Hi, I'm Lin, I'm in my second year of college studying computer engineering. I love Math, Engineering, and problem-solving.
+Hi, I'm Lin, I'm in my 3rd year of college studying computer engineering. I love Math, Engineering, and problem-solving.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
 * 🧠  I'm currently learning Django
 * 🤝  I'm open to collaborating on building Django/C++ projects, I'm also into topics related to math/engineering
-* ⚡  I'm trying to do webdev
+* ⚡  I'm trying build an education platform https://edu-boost.github.io/
 
 ### Skills
 
@@ -30,5 +30,5 @@ Hi, I'm Lin, I'm in my second year of college studying computer engineering. I l
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Serenity0204" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
+<p align="left"> <a href="https://edu-boost.github.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
