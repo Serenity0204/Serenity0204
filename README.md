@@ -28,7 +28,8 @@ Hi, I'm Lin, I'm in my 3rd year of college studying computer engineering. I love
 
 
 ### Socials
-
+My Github
 <p align="left"> <a href="https://www.github.com/Serenity0204" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+EduBoost
 <p align="left"> <a href="https://edu-boost.github.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
