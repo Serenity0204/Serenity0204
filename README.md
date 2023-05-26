@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Software/Firmware/Electrical Engineer
 -----------------------------------
 
-Hi, I'm Lin, I'm in my 3rd year of college studying electrical and computer engineering. I love Computational Math, Engineering, and problem-solving.
+Hi, I'm Lin, I'm in my 2nd year of college studying electrical and computer engineering. I love Computational Math, Engineering, and problem-solving.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
