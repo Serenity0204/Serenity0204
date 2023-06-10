@@ -10,7 +10,7 @@ Hi, I'm Lin, I'm in my 2nd year of college studying electrical and computer engi
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
 * 🧠  I'm currently learning Golang and CLI applications
 * 🤝  I'm open to collaborating on building Django/C++ projects, I'm also into topics related to math/engineering
-* ⚡  I'm trying build an education platform https://edu-boost.github.io/
+* ⚡  I'm trying build an education platform [https://edu-boost.github.io/](http://www.eduboost.online/)
 
 ### Skills
 
