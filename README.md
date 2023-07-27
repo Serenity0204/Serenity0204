@@ -8,9 +8,9 @@ Hi, I'm Lin, I'm in my 2nd year of college studying electrical and computer engi
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
-* 🚀  I'm currently working on [LVCS(Little Version Control System)](http://github.com/Serenity0204/LVCS)
+* 🚀  I'm currently working on [Little Cloud(A Cloud Storage + File Sharing System)](https://github.com/Serenity0204/Little-Cloud)
 * 🧠  I'm currently learning Machine Learning
-* 🤝  I'm open to collaborating on building Django/C++ projects, I'm also into topics related to math/engineering
+* 🤝  I'm open to collaborating on building Golang/Django/C++ projects, I'm also into topics related to math/engineering
 * ⚡  I just built an education platform [EduBoost](http://www.eduboost.online/)
 
 ### Skills
