@@ -39,5 +39,6 @@ Hi, I'm Lin, I'm in my 2nd year of college studying electrical and computer engi
 My Github
 <p align="left"> <a href="https://www.github.com/Serenity0204" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 EduBoost
-<p align="left"> <a href="https://edu-boost.github.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
+<p align="left"> <a href="https://www.eduboost.online/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+Portfolio
+<p align="left"> <a href="https://serenity0204.github.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
