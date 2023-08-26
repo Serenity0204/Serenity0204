@@ -35,18 +35,4 @@ Hi, I'm Lin, I'm in my 2nd year of college studying electrical and computer engi
 </p>
 
 
-### Socials
-<p align="left"> 
-  My Github
-  <a href="https://www.github.com/Serenity0204" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  EduBoost
-  <a href="https://www.eduboost.online/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://serenity0204.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-</p>
 
