@@ -9,7 +9,7 @@ Hi, I'm Lin, I'm in my 2nd year of college studying electrical and computer engi
 * 🌍  I'm based in California
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
 * 🚀  I'm currently working on [creating content for my own education platform. ](http://www.eduboost.online/)
-* 🧠  I'm currently learning Machine Learning
+* 🧠  I'm currently learning Machine Learning and Modern C++
 * 🤝  I'm open to collaborating on building Golang/Django/C++ projects, I'm also into topics related to math/engineering
 * ⚡  I just built an education platform [EduBoost](http://www.eduboost.online/)
 * ⭐  View All Of My Projects [HERE](https://github.com/Serenity0204/My-Projects-List)
