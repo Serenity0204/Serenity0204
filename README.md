@@ -10,7 +10,7 @@ Hi, I'm Lin, I'm in my 2nd year of college studying electrical and computer engi
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
 * 🚀  I'm currently working on [linnncode, a leetcode clone](https://github.com/Serenity0204/linnncode)
 * 🧠  I'm currently learning Machine Learning and Modern C++
-* 🤝  I'm open to collaborating on building Golang/Django/C++ projects, I'm also into topics related to math/engineering
+* 🤝  I'm open to collaborating on building Golang/Django/C++ projects, and hackathons, I'm also into topics related to math/engineering
 * ⚡  I just built an education platform [EduBoost](http://www.eduboost.online/)
 * ⭐  View All Of My Projects [HERE](https://github.com/Serenity0204/My-Projects-List)
 
