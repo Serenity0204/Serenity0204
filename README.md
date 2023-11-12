@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yu-Heng Daniel Lin
 ===========================================================================================================================
 
-Aspiring Software/Firmware/Electrical Engineer
+Aspiring Software/Design Verification/Firmware/Embedded Engineer
 -----------------------------------
 
 Hi, I'm Lin, I'm in my 2nd year of college studying electrical and computer engineering. I love building projects.
