@@ -8,10 +8,10 @@ Hi, I'm Lin, I'm in my 2nd year of college studying electrical and computer engi
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
-* 🚀  I'm currently working on None.
+* 🚀  I'm currently working on finishing my degree
 * 🧠  I'm currently learning digital logic design and computer architecture.
 * 🤝  I'm open to collaborating on building Golang/Django/C++ projects, and hackathons, I'm also into topics related to math/engineering
-* ⚡  My education platform [EduBoost](http://www.eduboost.online/)
+* ⚡  READY TO TRANSFER
 * ⭐  View All Of My Projects [HERE](https://github.com/Serenity0204/My-Projects-List)
 
 ### Skills
