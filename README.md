@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yu-Heng Daniel Lin
 ===========================================================================================================================
 
-Aspiring Software/Design Verification/Firmware/Embedded Engineer
+Aspiring Engineer
 -----------------------------------
 
-Hi, I'm Lin, I'm in my 2nd year of college studying electrical and computer engineering. I love building projects.
+Hi, I'm Lin, I'm in my 3rd year of college studying electrical and computer engineering.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
