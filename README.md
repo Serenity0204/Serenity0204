@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Engineer
 -----------------------------------
 
-Hi, I'm Lin, I'm in my 3rd year of college studying electrical and computer engineering.
+Hi, I'm Lin, I'm in my 3rd year of college studying electrical and computer engineering at UCSD.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
