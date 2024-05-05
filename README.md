@@ -10,8 +10,8 @@ Hi, I'm Lin, I'm in my 3rd year of college studying electrical and computer engi
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
 * 🚀  I'm currently working on finishing my degree
 * 🧠  I'm currently learning digital logic design and computer architecture.
-* 🤝  I'm open to collaborating on building Golang/Django/C++ projects, and hackathons, I'm also into topics related to math/engineering
-* ⚡  READY TO TRANSFER
+* 🤝  I'm open to collaborating on building Golang/Django/C++/C projects, and hackathons, I'm also into topics related to math/engineering
+* ⚡  Ready To Transfer
 * ⭐  View All Of My Projects [HERE](https://github.com/Serenity0204/My-Projects-List)
 
 ### Skills
