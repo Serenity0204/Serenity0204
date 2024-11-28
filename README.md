@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yu-Heng Lin
 ===========================================================================================================================
 
-Aspiring Engineer
+Aspiring Embedded Software/Firmware Engineer
 -----------------------------------
 
-Hi, I'm Lin, I'm in my 3rd year of college studying electrical and computer engineering at UCSD.
+Hi, I'm Yu-Heng Lin, a third-year ECE: Computer Engineering student at UCSD.
 
 * 🌍  I'm based in California/Taiwan
 * ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
