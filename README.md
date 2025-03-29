@@ -12,7 +12,7 @@ Hi, I'm Yu-Heng Lin, a third-year ECE: Computer Engineering student at UCSD.
 * 🧠  I'm currently learning embedded system programming
 * 🤝  I'm open to collaborating on building Embedded/C projects, and hackathons, I'm also into topics related to math/engineering
 * ⚡  None for now
-* ⭐  View All Of My Projects [HERE](https://github.com/Serenity0204/My-Projects-List)
+* ⭐  View All Of My Projects [HERE](https://github.com/Serenity0204/Project-List)
 
 ### Skills
 
