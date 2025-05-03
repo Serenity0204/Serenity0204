@@ -7,7 +7,6 @@ Aspiring Embedded Software/Firmware Engineer
 Hi, I'm Yu-Heng Lin, a third-year ECE: Computer Engineering student at UCSD.
 
 * 🌍  I'm based in California/Taiwan
-* ✉️  You can contact me at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
 * 🚀  I'm currently working on finishing my degree
 * 🧠  I'm currently learning embedded system programming
 * 🤝  I'm open to collaborating on building Embedded/C projects, and hackathons, I'm also into topics related to math/engineering
