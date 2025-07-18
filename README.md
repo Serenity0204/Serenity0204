@@ -4,7 +4,7 @@ Yu-Heng Lin Here!
 Aspiring Embedded Software/Firmware Engineer
 -----------------------------------
 
-Hi, I'm Yu-Heng Lin, a third-year ECE: Computer Engineering student at UCSD.
+Hi, I'm Yu-Heng Lin, a fourth-year ECE: Computer Engineering student at UCSD.
 
 * 🌍  I'm based in California/Taiwan
 * 🚀  I'm currently working on finishing my degree
