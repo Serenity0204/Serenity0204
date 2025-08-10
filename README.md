@@ -8,9 +8,9 @@ Hi, I'm Yu-Heng Lin, a fourth-year ECE: Computer Engineering student at UCSD.
 
 * 🌍  I'm based in California/Taiwan
 * 🚀  I'm currently working on finishing my degree
-* 🧠  I'm currently learning embedded system programming
-* 🤝  I'm open to collaborating on building Embedded/C projects, and hackathons, I'm also into topics related to math/engineering
-* ⚡  None for now
+* 🧠  I'm currently learning embedded systems and computer architecture.
+* 🤝  I'm open to collaborating on building Embedded/C/systemverilog projects, and hackathons.
+* ⚡  GPA 3.955
 * ⭐  View All Of My Projects [HERE](https://github.com/Serenity0204/Project-List)
 
 ### Skills
